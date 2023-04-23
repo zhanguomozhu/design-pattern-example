@@ -1,0 +1,13 @@
+/.idea
+mvnw
+mvnw.cmd
+/*/mvnw
+/*/mvnw.cmd
+/*/.mvn/
+/*/.gitignore
+/*.lck
+/*.log
+/target/*
+/.mvn/wrapper/maven-wrapper.jar
+/.mvn/wrapper/maven-wrapper.properties
+/*.iml
