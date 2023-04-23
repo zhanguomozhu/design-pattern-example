@@ -1,0 +1,27 @@
+package com.dyq.design.design.pattern.example.creation_mode.prototype_pattern;
+
+/**
+ * 工作经历类
+ */
+public class WorkExperience {
+	
+	private String timeArea;
+	private String company;
+
+	public String getTimeArea() {
+		return timeArea;
+	}
+
+	public void setTimeArea(String timeArea) {
+		this.timeArea = timeArea;
+	}
+
+	public String getCompany() {
+		return company;
+	}
+
+	public void setCompany(String company) {
+		this.company = company;
+	}
+	
+}
